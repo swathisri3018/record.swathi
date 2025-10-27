@@ -5,7 +5,7 @@
  			Step 1: Start
  			Step 2: Declare string variables (str1, str2, fullName, etc.)
  			Step 3: Initialize str1 = "Hello", str2 = "World"
- 			Step 4: Concatenate str1 and str2 (concatenated using '+') and → stored in combined
+ 			Step 4: Concatenate str1 and str2 (using concatenate'+')→ stored in combined
  			Step 5: Display the combined string
  			Step 6: Prompt user to enter full name
  			Step 7: Read full name using getline() 
