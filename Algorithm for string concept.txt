@@ -1,0 +1,20 @@
+ 	                      Algorithm for string concept
+
+
+
+ 			Step 1: Start
+ 			Step 2: Declare string variables (str1, str2, fullName, etc.)
+ 			Step 3: Initialize str1 = "Hello", str2 = "World"
+ 			Step 4: Concatenate str1 and str2 → store in combined
+ 			Step 5: Display the combined string
+ 			Step 6: Prompt user to enter full name
+ 			Step 7: Read full name using getline()
+ 			Step 8: Display the full name
+ 			Step 9: Find and display the length of the full name
+ 			Step 10: Extract and display the first 5 characters (substring)
+ 			Step 11: Compare two strings ("Apple" and "Banana")
+ 			Step 12: Display comparison result
+ 			Step 13: Replace "C++" with "Python" in a sentence
+ 			Step 14: Display modified sentence
+ 			Step 15: Loop through and display each character of full name
+ 			Step 16: End
