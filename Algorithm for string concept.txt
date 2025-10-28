@@ -10,12 +10,13 @@
  			Step 6: Prompt user to enter full name
  			Step 7: Read full name using getline() 
  			Step 8: Display the full name
- 			Step 9: Find and display the length of the full name (using "length()" function)
- 			Step 10: Extract and display the first 5 characters (using "substr()" function)
+ 			Step 9: Find and display the length of the full name (using "length()" library function)
+ 			Step 10: Extract and display the first 5 characters (using "substr()" library function)
  			Step 11: Compare two strings ("Apple" and "Banana") (using "==" operator)
  			Step 12: Display comparison result
- 			Step 13: Replace "C++" with "Python" in a sentence (using "replace()" function)
+ 			Step 13: Replace "C++" with "Python" in a sentence (using "replace()" library function)
  			Step 14: Display modified sentence
  			Step 15: Loop through and display each character of full name
  			Step 16: End
+
 
